@@ -1,0 +1,16 @@
+[
+  {
+    "source_id": "blld-2019",
+    "path": "starter/data/bo-luat-lao-dong-2019_45-2019-QH14_congbao.pdf",
+    "sha256": "3c865f3d92ba23604e316360b902297ddbc0d1c394d3c08a466029a9d43b5b6c",
+    "sha256_matches_manifest": true,
+    "physical_pages": 94,
+    "content_pages": 93,
+    "empty_or_short_pages": [
+      94
+    ],
+    "min_content_chars": 200,
+    "content_chars": 189319,
+    "header_lines_removed": 186
+  }
+]

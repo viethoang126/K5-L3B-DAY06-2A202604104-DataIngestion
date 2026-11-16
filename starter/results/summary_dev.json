@@ -1,0 +1,97 @@
+{
+  "started_at": "2026-11-16T03:30:42+00:00",
+  "split": "dev",
+  "metrics": {
+    "A/dev": {
+      "hit1": {
+        "n": 6,
+        "N": 15,
+        "text": "6/15",
+        "pct": 40.0
+      },
+      "hit3": {
+        "n": 9,
+        "N": 15,
+        "text": "9/15",
+        "pct": 60.0
+      },
+      "filter_compliance": {
+        "n": 1,
+        "N": 3,
+        "text": "1/3",
+        "pct": 33.3
+      },
+      "evidence_split_suspected": [
+        "q01",
+        "q09",
+        "q11",
+        "q15"
+      ],
+      "misses": [
+        "q01",
+        "q08",
+        "q09",
+        "q11",
+        "q12",
+        "q15"
+      ]
+    },
+    "B/dev": {
+      "hit1": {
+        "n": 12,
+        "N": 15,
+        "text": "12/15",
+        "pct": 80.0
+      },
+      "hit3": {
+        "n": 14,
+        "N": 15,
+        "text": "14/15",
+        "pct": 93.3
+      },
+      "filter_compliance": {
+        "n": 1,
+        "N": 3,
+        "text": "1/3",
+        "pct": 33.3
+      },
+      "evidence_split_suspected": [
+        "q11"
+      ],
+      "misses": [
+        "q11"
+      ]
+    },
+    "C/dev": {
+      "hit1": {
+        "n": 12,
+        "N": 15,
+        "text": "12/15",
+        "pct": 80.0
+      },
+      "hit3": {
+        "n": 14,
+        "N": 15,
+        "text": "14/15",
+        "pct": 93.3
+      },
+      "filter_compliance": {
+        "n": 3,
+        "N": 3,
+        "text": "3/3",
+        "pct": 100.0
+      },
+      "evidence_split_suspected": [
+        "q11"
+      ],
+      "misses": [
+        "q11"
+      ]
+    }
+  },
+  "retrieval_seconds": {
+    "A": 1.741,
+    "B": 0.092,
+    "C": 0.214
+  }
+}

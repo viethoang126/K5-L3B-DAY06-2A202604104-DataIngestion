@@ -1,0 +1,225 @@
+﻿position,page,char_offset,strategy,chunk_id,chunk_text,label_0_1_2,reason,labeled_by
+pos01,1,769,A,blld-2019:A:p001:c01,"n người sử dụng lao động trong quan hệ lao động và các quan
+hệ khác liên quan trực tiếp đến quan hệ lao động; quản lý nhà nước về lao động.
+Điều 2. Đối tượng áp dụng
+1. Người lao động, người học nghề, người tập nghề và người làm việc không
+có quan hệ lao động.
+2. Người sử dụng lao động.
+3. Người lao động nước ngoài làm việc tại Việt Nam.
+4. Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động.
+Điều 3. Giải thích từ ngữ
+Trong Bộ luật này, các từ ngữ dưới đây được hiểu như",1,"Đầu bị cắt giữa chữ ('n người sử dụng…'), cuối cắt giữa câu Điều 3 ('…được hiểu như'); phần giữa là trọn Điều 2 nên vẫn hiểu một phần.",AI_draft
+pos01,1,769,B,blld-2019:B:d002:s00,"Điều 2. Đối tượng áp dụng
+1. Người lao động, người học nghề, người tập nghề và người làm việc không
+có quan hệ lao động.
+2. Người sử dụng lao động.
+3. Người lao động nước ngoài làm việc tại Việt Nam.
+4. Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động.",2,"Trọn Điều 2 từ tiêu đề đến khoản 4, tự đọc hiểu được.",AI_draft
+pos02,10,18870,A,blld-2019:A:p010:c02,"động;
+đ) Mức lương theo công việc hoặc chức danh, hình thức trả lương, thời hạn trả
+lương, phụ cấp lương và các khoản bổ sung khác;
+e) Chế độ nâng bậc, nâng lương;
+g) Thời giờ làm việc, thời giờ nghỉ ngơi;
+h) Trang bị bảo hộ lao động cho người lao động;
+i) Bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp;
+k) Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề.
+2. Khi người lao động làm việc có liên quan trực tiếp đến bí mật kinh doanh, bí
+mật công nghệ theo quy định của pháp luật thì",0,Bắt đầu bằng 'động;' rồi các điểm đ)–k) mà mất câu dẫn 'Hợp đồng lao động phải có những nội dung chủ yếu' và tiêu đề Điều 21; không biết danh sách này là gì; cuối cắt giữa khoản 2.,AI_draft; NguyenVietHoang reviewed: keep
+pos02,10,18870,B,blld-2019:B:d021:s00,"Điều 21. Nội dung hợp đồng lao động
+1. Hợp đồng lao động phải có những nội dung chủ yếu sau đây:
+a) Tên, địa chỉ của người sử dụng lao động và họ tên, chức danh của người
+giao kết hợp đồng lao động bên phía người sử dụng lao động;
+b) Họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, số thẻ Căn cước công
+dân, Chứng minh nhân dân hoặc hộ chiếu của người giao kết hợp đồng lao động
+bên phía người lao động;
+c) Công việc và địa điểm làm việc;
+d) Thời hạn của hợp đồng lao động;
+đ) Mức lương theo công việc hoặc chức danh, hình thức trả lương, thời hạn trả
+lương, phụ cấp lương và các khoản bổ sung khác;
+e) Chế độ nâng bậc, nâng lương;
+g) Thời giờ làm việc, thời giờ nghỉ ngơi;
+h) Trang bị bảo hộ lao động cho người lao động;
+i) Bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp;
+k) Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề.
+2. Khi người lao động làm việc có liên quan trực tiếp đến bí mật kinh doanh, bí
+mật công nghệ theo quy định của pháp luật thì người sử dụng lao động có quyền
+thỏa thuận bằng văn bản với người lao động về nội dung, thời hạn bảo vệ bí mật
+kinh doanh, bảo vệ bí mật công nghệ, quyền lợi và việc bồi thường trong trường
+hợp vi phạm.",2,"Có tiêu đề Điều 21, câu dẫn và đủ điểm a)–k) cùng khoản 2; ý trọn vẹn (Điều còn tiếp ở s01 nhưng chunk dừng đúng ranh giới khoản).",AI_draft
+pos03,19,36997,A,blld-2019:A:p019:c02,"n tiền bồi thường thêm cho người lao
+động nhưng ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động để chấm dứt
+hợp đồng lao động.
+Điều 42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi
+cơ cấu, công nghệ hoặc vì lý do kinh tế
+1. Những trường hợp sau đây được coi là thay đổi cơ cấu, công nghệ:
+a) Thay đổi cơ cấu tổ chức, tổ chức lại lao động;
+b) Thay đổi quy trình, công nghệ, máy móc, thiết bị sản xuất, kinh doanh gắn
+với ngành, nghề sản xuất, kinh doanh của người sử dụng lao",1,Đầu là mảnh câu của Điều 41; có tiêu đề Điều 42 và khoản 1 nhưng cuối cắt giữa chữ ('người sử dụng lao'); hiểu được chủ đề Điều 42 nhưng thiếu nội dung.,AI_draft
+pos03,19,36997,B,blld-2019:B:d042:s00,"Điều 42. Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi
+cơ cấu, công nghệ hoặc vì lý do kinh tế
+1. Những trường hợp sau đây được coi là thay đổi cơ cấu, công nghệ:
+a) Thay đổi cơ cấu tổ chức, tổ chức lại lao động;
+b) Thay đổi quy trình, công nghệ, máy móc, thiết bị sản xuất, kinh doanh gắn
+với ngành, nghề sản xuất, kinh doanh của người sử dụng lao động;
+c) Thay đổi sản phẩm hoặc cơ cấu sản phẩm.
+2. Những trường hợp sau đây được coi là vì lý do kinh tế:
+a) Khủng hoảng hoặc suy thoái kinh tế;
+b) Thực hiện chính sách, pháp luật của Nhà nước khi cơ cấu lại nền kinh tế
+hoặc thực hiện cam kết quốc tế.
+3. Trường hợp thay đổi cơ cấu, công nghệ mà ảnh hưởng đến việc làm của
+nhiều người lao động thì người sử dụng lao động phải xây dựng và thực hiện
+phương án sử dụng lao động theo quy định tại Điều 44 của Bộ luật này; trường hợp
+có chỗ làm việc mới thì ưu tiên đào tạo lại người lao động để tiếp tục sử dụng.
+4. Trong trường hợp vì lý do kinh tế mà nhiều người lao động có nguy cơ mất
+việc làm, phải thôi việc thì người sử dụng lao động phải xây dựng và thực hiện
+phương án sử dụng lao động theo quy định tại Điều 44 của Bộ luật này.",2,Tiêu đề Điều 42 và khoản 1–4 trọn vẹn; dừng đúng ranh giới khoản (khoản 5–6 ở s01).,AI_draft
+pos04,28,55728,A,blld-2019:A:p028:c01,"tạo nghề phải có các nội dung chủ yếu sau đây:
+a) Nghề đào tạo;
+b) Địa điểm, thời gian và tiền lương trong thời gian đào tạo;
+c) Thời hạn cam kết phải làm việc sau khi được đào tạo;
+d) Chi phí đào tạo và trách nhiệm hoàn trả chi phí đào tạo;
+đ) Trách nhiệm của người sử dụng lao động;
+e) Trách nhiệm của người lao động.
+3. Chi phí đào tạo bao gồm các khoản chi có chứng từ hợp lệ về chi phí trả cho
+người dạy, tài liệu học tập, trường, lớp, máy, thiết bị, vật liệu thực hành, các chi
+phí khác hỗ",1,"Bắt đầu giữa câu ('tạo nghề phải có các nội dung…'), không có tiêu đề Điều 62; đoán được là hợp đồng đào tạo nghề nhưng cuối cắt giữa chữ ('hỗ').",AI_draft
+pos04,28,55728,B,blld-2019:B:d062:s01,"[Chương IV – Điều 62. Hợp đồng đào tạo nghề giữa người sử dụng lao động, người lao] 3. Chi phí đào tạo bao gồm các khoản chi có chứng từ hợp lệ về chi phí trả cho
+người dạy, tài liệu học tập, trường, lớp, máy, thiết bị, vật liệu thực hành, các chi
+phí khác hỗ trợ cho người học và tiền lương, tiền đóng bảo hiểm xã hội, bảo hiểm
+y tế, bảo hiểm thất nghiệp cho người học trong thời gian đi học. Trường hợp người
+lao động được gửi đi đào tạo ở nước ngoài thì chi phí đào tạo còn bao gồm chi phí
+đi lại, chi phí sinh hoạt trong thời gian đào tạo.",2,Khoản 3 trọn vẹn về chi phí đào tạo; tiền tố [Chương IV – Điều 62] cho biết ngữ cảnh. Nhược điểm nhỏ: tên Điều trong tiền tố bị cắt ('…người lao]').,AI_draft; NguyenVietHoang reviewed: keep
+pos05,37,74999,A,blld-2019:A:p037:c02,"ước lao động
+tập thể ngành hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp.
+3. Khuyến khích doanh nghiệp chưa tham gia thỏa ước lao động tập thể ngành
+hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp thực hiện nội dung có lợi
+hơn cho người lao động của thỏa ước lao động tập thể ngành hoặc thỏa ước lao
+động tập thể có nhiều doanh nghiệp.
+Điều 82. Sửa đổi, bổ sung thỏa ước lao động tập thể
+1. Thỏa ước lao động tập thể chỉ được sửa đổi, bổ sung theo thỏa thuận tự
+nguyện của các bên,",1,"Đầu là mảnh khoản 2 Điều 81 ('ước lao động…'), khoản 3 hiểu được; Điều 82 bị cắt giữa câu ở cuối; thiếu tiêu đề Điều 81.",AI_draft
+pos05,37,74999,B,blld-2019:B:d081:s00,"Điều 81. Quan hệ giữa thỏa ước lao động tập thể doanh nghiệp, thỏa ước
+lao động tập thể ngành và thỏa ước lao động tập thể có nhiều doanh nghiệp
+1. Trường hợp thỏa ước lao động tập thể doanh nghiệp, thỏa ước lao động tập
+thể có nhiều doanh nghiệp, thỏa ước lao động tập thể ngành quy định về quyền,
+nghĩa vụ và lợi ích của người lao động khác nhau thì thực hiện theo nội dung có lợi
+nhất cho người lao động.
+2. Doanh nghiệp thuộc đối tượng áp dụng của thỏa ước lao động tập thể ngành
+hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp nhưng chưa có thỏa ước lao
+động tập thể doanh nghiệp thì có thể xây dựng thỏa ước lao động tập thể doanh
+nghiệp với những nội dung có lợi hơn cho người lao động so với thỏa ước lao động
+tập thể ngành hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp.
+3. Khuyến khích doanh nghiệp chưa tham gia thỏa ước lao động tập thể ngành
+hoặc thỏa ước lao động tập thể có nhiều doanh nghiệp thực hiện nội dung có lợi
+hơn cho người lao động của thỏa ước lao động tập thể ngành hoặc thỏa ước lao
+động tập thể có nhiều doanh nghiệp.",2,"Trọn Điều 81 (tiêu đề và khoản 1–3), tự đọc hiểu được.",AI_draft
+pos06,46,93695,A,blld-2019:A:p046:c01,"định tại khoản 1 Điều này, người sử dụng lao động
+bố trí cho người lao động các đợt nghỉ giải lao và ghi vào nội quy lao động.
+Điều 110. Nghỉ chuyển ca
+Người lao động làm việc theo ca được nghỉ ít nhất 12 giờ trước khi chuyển
+sang ca làm việc khác.
+Điều 111. Nghỉ hằng tuần
+1. Mỗi tuần, người lao động được nghỉ ít nhất 24 giờ liên tục. Trong trường
+hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao
+động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình",1,Đầu là mảnh cuối Điều 109 thiếu chủ thể ('định tại khoản 1 Điều này…'); Điều 110 trọn vẹn; Điều 111 cắt giữa từ ('tính bình').,AI_draft
+pos06,46,93695,B,blld-2019:B:d111:s00,"Điều 111. Nghỉ hằng tuần
+1. Mỗi tuần, người lao động được nghỉ ít nhất 24 giờ liên tục. Trong trường
+hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao
+động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít
+nhất 04 ngày.
+2. Người sử dụng lao động có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào
+ngày Chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động.
+3. Nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết quy định tại khoản 1
+Điều 112 của Bộ luật này thì người lao động được nghỉ bù ngày nghỉ hằng tuần
+vào ngày làm việc kế tiếp.",2,"Trọn Điều 111 (khoản 1–3), tự đọc hiểu được.",AI_draft
+pos07,55,111357,A,blld-2019:A:p055:c02,"hằm giúp lao động nữ phát huy có hiệu quả năng lực nghề nghiệp,
+kết hợp hài hòa cuộc sống lao động và cuộc sống gia đình.
+4. Có chính sách giảm thuế đối với người sử dụng lao động có sử dụng nhiều
+lao động nữ theo quy định của pháp luật về thuế.
+5. Nhà nước có kế hoạch, biện pháp tổ chức nhà trẻ, lớp mẫu giáo ở nơi có
+nhiều lao động. Mở rộng nhiều loại hình đào tạo thuận lợi cho lao động nữ có thêm
+nghề dự phòng và phù hợp với đặc điểm về cơ thể, sinh lý và chức năng làm mẹ
+của phụ nữ.
+6. Chính",1,"Bắt đầu giữa chữ ('hằm giúp lao động nữ…'), mất tiêu đề Điều 135 'Chính sách của Nhà nước'; khoản 4–5 hiểu được; cuối cắt ở '6. Chính'.",AI_draft
+pos07,55,111357,B,blld-2019:B:d135:s00,"Chương X
+NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG NỮ
+VÀ BẢO ĐẢM BÌNH ĐẲNG GIỚI
+
+Điều 135. Chính sách của Nhà nước
+1. Bảo đảm quyền bình đẳng của lao động nữ, lao động nam, thực hiện các
+biện pháp bảo đảm bình đẳng giới và phòng, chống quấy rối tình dục tại nơi
+làm việc.
+2. Khuyến khích người sử dụng lao động tạo điều kiện để lao động nữ, lao
+động nam có việc làm thường xuyên, áp dụng rộng rãi chế độ làm việc theo thời
+gian biểu linh hoạt, làm việc không trọn thời gian, giao việc làm tại nhà.
+3. Có biện pháp tạo việc làm, cải thiện điều kiện lao động, nâng cao trình độ
+nghề nghiệp, chăm sóc sức khỏe, tăng cường phúc lợi về vật chất và tinh thần của
+lao động nữ nhằm giúp lao động nữ phát huy có hiệu quả năng lực nghề nghiệp,
+kết hợp hài hòa cuộc sống lao động và cuộc sống gia đình.
+4. Có chính sách giảm thuế đối với người sử dụng lao động có sử dụng nhiều
+lao động nữ theo quy định của pháp luật về thuế.
+5. Nhà nước có kế hoạch, biện pháp tổ chức nhà trẻ, lớp mẫu giáo ở nơi có
+nhiều lao động. Mở rộng nhiều loại hình đào tạo thuận lợi cho lao động nữ có thêm
+nghề dự phòng và phù hợp với đặc điểm về cơ thể, sinh lý và chức năng làm mẹ
+của phụ nữ.
+6. Chính phủ quy định chi tiết Điều này.",2,Có tiêu đề Chương X và trọn Điều 135 (khoản 1–6).,AI_draft
+pos08,64,129599,A,blld-2019:A:p064:c01,"động là người nước
+ngoài làm việc tại Việt Nam.
+7. Doanh nghiệp, tổ chức, đối tác phía Việt Nam hoặc tổ chức nước ngoài tại
+Việt Nam sử dụng lao động là người nước ngoài chấm dứt hoạt động.
+8. Giấy phép lao động bị thu hồi.
+Điều 157. Cấp, cấp lại, gia hạn, thu hồi giấy phép lao động, giấy xác nhận
+không thuộc diện cấp giấy phép lao động
+Chính phủ quy định điều kiện, trình tự, thủ tục cấp, cấp lại, gia hạn, thu hồi
+giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối",1,Khoản 7–8 đầu chunk thiếu câu dẫn của Điều 156 nên không rõ là danh sách gì; Điều 157 có tiêu đề nhưng cuối bị cắt ('…đối').,AI_draft
+pos08,64,129599,B,blld-2019:B:d157:s00,"Điều 157. Cấp, cấp lại, gia hạn, thu hồi giấy phép lao động, giấy xác nhận
+không thuộc diện cấp giấy phép lao động
+Chính phủ quy định điều kiện, trình tự, thủ tục cấp, cấp lại, gia hạn, thu hồi
+giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối
+với người lao động nước ngoài làm việc tại Việt Nam.",2,"Trọn Điều 157 (một đoạn), tự đọc hiểu được.",AI_draft
+pos09,73,148017,A,blld-2019:A:p073:c02,"g lao động hoặc một hay nhiều tổ
+chức của người sử dụng lao động phát sinh trong trường hợp sau đây:
+a) Có sự khác nhau trong việc hiểu và thực hiện quy định của thỏa ước lao
+động tập thể, nội quy lao động, quy chế và thỏa thuận hợp pháp khác;
+b) Có sự khác nhau trong việc hiểu và thực hiện quy định của pháp luật về
+lao động;
+c) Khi người sử dụng lao động có hành vi phân biệt đối xử đối với người lao
+động, thành viên ban lãnh đạo của tổ chức đại diện người lao động vì lý do thành
+lập, gia nhập,",0,Bắt đầu giữa chữ và mất chủ ngữ 'Tranh chấp lao động tập thể về quyền là tranh chấp giữa…'; không biết loại tranh chấp nào; cuối cắt giữa câu.,AI_draft; NguyenVietHoang reviewed: keep
+pos09,73,148017,B,blld-2019:B:d179:s01,"[Chương XIV – Điều 179. Tranh chấp lao động] 2. Tranh chấp lao động tập thể về quyền là tranh chấp giữa một hay nhiều tổ
+chức đại diện người lao động với người sử dụng lao động hoặc một hay nhiều tổ
+chức của người sử dụng lao động phát sinh trong trường hợp sau đây:
+a) Có sự khác nhau trong việc hiểu và thực hiện quy định của thỏa ước lao
+động tập thể, nội quy lao động, quy chế và thỏa thuận hợp pháp khác;
+b) Có sự khác nhau trong việc hiểu và thực hiện quy định của pháp luật về
+lao động;
+c) Khi người sử dụng lao động có hành vi phân biệt đối xử đối với người lao
+động, thành viên ban lãnh đạo của tổ chức đại diện người lao động vì lý do thành
+lập, gia nhập, hoạt động trong tổ chức đại diện người lao động; can thiệp, thao túng
+tổ chức đại diện người lao động; vi phạm nghĩa vụ về thương lượng thiện chí.
+3. Tranh chấp lao động tập thể về lợi ích bao gồm:
+a) Tranh chấp lao động phát sinh trong quá trình thương lượng tập thể;
+b) Khi một bên từ chối thương lượng hoặc không tiến hành thương lượng trong
+thời hạn theo quy định của pháp luật.",2,"Tiền tố [Chương XIV – Điều 179. Tranh chấp lao động] và khoản 2–3 trọn vẹn, tự đọc hiểu được.",AI_draft
+pos10,82,166805,A,blld-2019:A:p082:c02,"o động không tiến hành hòa giải hoặc một trong các bên không thực hiện thỏa
+thuận trong biên bản hòa giải thành.
+2. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu giải quyết
+tranh chấp theo quy định tại khoản 1 Điều này, Ban trọng tài lao động phải được
+thành lập để giải quyết tranh chấp.
+3. Trong thời hạn 30 ngày kể từ ngày được thành lập, căn cứ vào quy định của
+pháp luật về lao động, thỏa ước lao động tập thể, nội quy lao động đã được đăng
+ký và các quy chế, thỏa thuận hợp pháp",1,"Đầu là mảnh khoản 1 Điều 197 ('o động không tiến hành hòa giải…'), không có tiêu đề Điều; khoản 2 hiểu được; khoản 3 cắt giữa câu.",AI_draft
+pos10,82,166805,B,blld-2019:B:d197:s00,"Điều 197. Giải quyết tranh chấp lao động tập thể về lợi ích của Hội đồng
+trọng tài lao động
+1. Trên cơ sở đồng thuận, các bên tranh chấp có quyền yêu cầu Hội đồng trọng
+tài lao động giải quyết tranh chấp trong trường hợp hòa giải không thành hoặc hết
+thời hạn hòa giải quy định tại khoản 2 Điều 188 của Bộ luật này mà hòa giải viên
+lao động không tiến hành hòa giải hoặc một trong các bên không thực hiện thỏa
+thuận trong biên bản hòa giải thành.
+2. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu giải quyết
+tranh chấp theo quy định tại khoản 1 Điều này, Ban trọng tài lao động phải được
+thành lập để giải quyết tranh chấp.
+3. Trong thời hạn 30 ngày kể từ ngày được thành lập, căn cứ vào quy định của
+pháp luật về lao động, thỏa ước lao động tập thể, nội quy lao động đã được đăng
+ký và các quy chế, thỏa thuận hợp pháp khác, Ban trọng tài lao động phải ra quyết
+định về việc giải quyết tranh chấp và gửi cho các bên tranh chấp.",2,Tiêu đề Điều 197 và khoản 1–3 trọn vẹn; dừng đúng ranh giới khoản (khoản 4 ở s01).,AI_draft

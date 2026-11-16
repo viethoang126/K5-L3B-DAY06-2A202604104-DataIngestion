@@ -1,4 +1,16 @@
-# Core setup and PDF parsing. Choose and install an embedding SDK separately.
+# Versions tested on Windows 11, Python 3.12 (2026-11-15).
+python-dotenv>=1,<2
+# PDF parsing: PyMuPDF is used for the corpus (Công báo PDF). pypdf splits
+# Vietnamese syllables incorrectly on this file (~1,495 broken fragments vs ~2),
+# see data/MANIFEST.md.
+pymupdf==2.1
+# Vector store: Chroma persistent client (cosine, HNSW, metadata filter)
+chromadb==1.5.9
+# Local embedding model intfloat/multilingual-e5-small (CPU is enough)
+sentence-transformers==6.3.0
+torch==2.15.0
+transformers==5.23.0
+# Original starter dependencies, kept only for the optional pgvector path / comparison;
+# not used by the Chroma pipeline.
 psycopg[binary]==3.3.8
 pypdf>=5,<7
-python-dotenv>=1,<2

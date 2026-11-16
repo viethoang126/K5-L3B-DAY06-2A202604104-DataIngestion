@@ -1,5 +1,24 @@
 # Starter · PostgreSQL + pgvector
 
+> **Bài làm này dùng Chroma, không dùng Docker hay pgvector.** Các phần bên dưới về Docker, `check_setup.py` và `PgVectorStore` là hướng dẫn gốc của starter, không cần cho bài làm.
+>
+> ```powershell
+> cd starter
+> python -m venv .venv
+> .venv\Scripts\Activate.ps1
+> python -m pip install -r requirements.txt
+> python scripts/validate_benchmark.py      # kiểm chứng benchmark
+> python -m src.run                         # dev: ingest + 3 chiến lược + trace
+> python -m src.run --split test            # chỉ chạy SAU khi đã chốt chiến lược trên dev
+> ```
+>
+> **Cấu hình:**
+> - Embedding: model local `intfloat/multilingual-e5-small` (384 chiều, lần chạy đầu tải khoảng 470 MB, không cần API key, chi phí 0).
+> - Vector store: Chroma lưu bền vững ở `starter/chroma_db/`, metric cosine, HNSW.
+> - Chiến lược: **A** cắt cố định 500 ký tự, overlap 50, trong từng trang. **B** chia theo Điều, tối đa 1200 ký tự, chia tiếp theo khoản nếu dài. **C** dùng index B, có thêm filter `chuong`.
+>
+> Kết quả ghi vào `starter/results/`. File audit chỉ được tạo một lần và không bao giờ bị ghi đè.
+
 Bộ khởi động **tùy chọn** cho lab cá nhân. Docker Compose tạo PostgreSQL + pgvector local; các file trong `src/` là **khung pseudocode có TODO**, chưa đọc tài liệu, tạo embedding, lưu vector hay chạy benchmark. Bạn cần tự hiện thực. Vẫn có thể chọn Qdrant, Chroma hoặc vector store tương đương theo [GUIDE.md](../GUIDE.md).
 
 ## Cấu trúc
